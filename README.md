@@ -107,6 +107,7 @@ This chapter gives you a brief overview o call graphs and PointsTo analysis in A
 # CFG Tutorial
 ## CFG for Calculator App
 ![cfg lab](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-LiamDaigle/assets/70587593/ac66300f-171c-4cab-af26-43f66cceca74)
+![onClickCFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-LiamDaigle/assets/70587593/b930a431-9b45-4675-9034-9b4430dceada)
 
 ## EFG for Calculator App
 ![EFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-LiamDaigle/assets/70587593/f1fa0725-bbaf-4cdd-a50c-53849b7a898e)
