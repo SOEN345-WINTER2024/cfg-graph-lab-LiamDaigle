@@ -112,6 +112,8 @@ This chapter gives you a brief overview o call graphs and PointsTo analysis in A
 ## EFG for Calculator App
 ![EFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-LiamDaigle/assets/70587593/f1fa0725-bbaf-4cdd-a50c-53849b7a898e)
 
+Link to project app: https://github.com/TeamAmaze/AmazeFileManager
+
 ## CFG for AmazeFileManager App
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-LiamDaigle/assets/70587593/46de6129-278d-4262-8674-a428a5791315)
 
